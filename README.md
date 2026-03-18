@@ -14,3 +14,4 @@ gcc fcfs.c -o fcfs
 ```
 
 ## Output
+![FCFS Output with Gantt Chart](https://raw.githubusercontent.com/joelbijo/OS-SchedulingAlgo/main/images/fcfs-output.png)
