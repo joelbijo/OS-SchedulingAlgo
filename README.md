@@ -11,3 +11,6 @@ User inputs number of processes, Arrival Time(AT), and Burst Time(BT) for each p
 ```bash
 gcc fcfs.c -o fcfs
 ./fcfs
+```
+
+## Output
